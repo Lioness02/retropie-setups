@@ -18,5 +18,4 @@ Rom Hustler: http://romhustler.net/.
 Free ROMs: https://www.freeroms.com/.
 Trendy ROM: http://coolrom.com/.
 Coleco Vision Addict: http://cvaddict.com/list.php.
-https://retropie-roms.co.uk/
 [retropie roms download pack](https://retropie-roms.co.uk/)
