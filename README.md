@@ -17,4 +17,5 @@ I have actually gathered here 4 internet sites that I suggest:.
 Rom Hustler: http://romhustler.net/.
 Free ROMs: https://www.freeroms.com/.
 Trendy ROM: http://coolrom.com/.
-Coleco Vision Addict: http://cvaddict.com/list.php.https://retropie-roms.co.uk/
+Coleco Vision Addict: http://cvaddict.com/list.php.
+https://retropie-roms.co.uk/
